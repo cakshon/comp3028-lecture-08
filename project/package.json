@@ -1,0 +1,11 @@
+{
+  "name": "lecture8-data-sources-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "COMP3028 Lecture 08 companion: Express + PostgreSQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "check": "node --check app.js"
+  }
+}
